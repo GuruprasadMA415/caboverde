@@ -1,0 +1,12 @@
+name: CaboVerde
+title: CaboVerde
+username: preetikaguru
+account: preetikaguru
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14710074
+bundleId: 10248513
+url: https://preetikaguru.shinyapps.io/CaboVerde/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
